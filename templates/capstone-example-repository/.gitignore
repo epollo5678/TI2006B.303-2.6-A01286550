@@ -1,0 +1,28 @@
+.conda/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Do not commit large or sensitive data by default.
+data/raw/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# Native BI files can be large and may include embedded data.
+*.pbix
+*.pbit
+*.twb
+*.twbx

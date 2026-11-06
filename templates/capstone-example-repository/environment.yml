@@ -1,0 +1,16 @@
+name: ti2006b-capstone
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab>=4,<5
+  - ipykernel>=6
+  - nbconvert>=7,<8
+  - pandas>=2,<3
+  - numpy>=1.26,<3
+  - matplotlib>=3.8,<4
+  - seaborn>=0.13,<1
+  - plotly>=5,<7
+  - openpyxl>=3.1,<4
+  - pytest>=8,<9
+  - pip

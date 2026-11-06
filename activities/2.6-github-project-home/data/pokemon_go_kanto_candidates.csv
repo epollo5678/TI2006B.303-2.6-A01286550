@@ -1,0 +1,16 @@
+pokedex_id,pokemon,type_1,type_2,great_league_eligible,attack_index,bulk_index,move_coverage_index,meta_signal_index,source_note
+1,Venusaur,Grass,Poison,true,67,78,83,78,classroom proxy
+3,Charizard,Fire,Flying,true,82,55,86,84,classroom proxy
+6,Blastoise,Water,,true,65,82,76,75,classroom proxy
+15,Beedrill,Bug,Poison,true,72,48,74,63,classroom proxy
+18,Pidgeot,Normal,Flying,true,61,76,81,70,classroom proxy
+20,Raticate,Normal,,true,64,59,61,48,classroom proxy
+25,Pikachu,Electric,,true,71,42,70,55,classroom proxy
+26,Raichu,Electric,,true,75,56,79,67,classroom proxy
+31,Nidoqueen,Poison,Ground,true,69,85,84,86,classroom proxy
+34,Nidoking,Poison,Ground,true,81,63,78,72,classroom proxy
+62,Poliwrath,Water,Fighting,true,68,86,88,89,classroom proxy
+68,Machamp,Fighting,,true,84,62,72,65,classroom proxy
+80,Slowbro,Water,Psychic,true,67,88,80,82,classroom proxy
+131,Lapras,Water,Ice,true,73,90,85,91,classroom proxy
+143,Snorlax,Normal,,true,78,94,77,93,classroom proxy
