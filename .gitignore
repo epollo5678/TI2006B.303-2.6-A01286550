@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# TI2006B workbench (Activity 2)
+#   Keep personal VS Code settings, secrets and local caches out of Git.
+#   .vscode/extensions.json is shared on purpose (no paths or tokens).
+.vscode/*
+!.vscode/extensions.json
+*.code-workspace
+.env.*
+!.env.example
+*.pem
+*.key

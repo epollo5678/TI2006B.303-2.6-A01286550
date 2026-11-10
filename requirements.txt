@@ -1,0 +1,6 @@
+# Pip-compatible mirror of environment.yml (ti2006b-workbench).
+# Keep both files aligned: same user-requested packages, no local paths.
+pandas>=2.0,<4
+matplotlib>=3.8,<4
+jupyter>=1.0
+ipykernel>=6.0
